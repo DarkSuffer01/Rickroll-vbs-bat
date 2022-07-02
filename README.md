@@ -1,4 +1,4 @@
-# Rickroll-vbs-bat
+# Rickroll.vbs
 Rickroll your friends + scammers + Emo, By using this. {It's not spamming websites, It just plays on the desktop.}
 [Don't use this for hijacking. XD]
 
